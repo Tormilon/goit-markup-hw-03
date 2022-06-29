@@ -309,6 +309,7 @@ a {
 
     color: var(--title-text-color);
     display: block;
+    margin-bottom: 50px;
 }
 
 .team-list {
@@ -361,10 +362,11 @@ a {
     font-weight: 700;
     font-size: 26px;
     line-height: 1.19;
+    margin-bottom: 20px;
 }
 
-.address {
-    margin-top: 20px;
+.map {
+
 }
 
 .contact-footer a {
@@ -387,7 +389,7 @@ a {
     color: var(--accent-color);
 }
 
-.contact-footer .address {
+.contact-footer .map {
     color: var(--primary-white-color);
 }
 
@@ -484,4 +486,5 @@ a {
     color: var(--primary-text-color);
     font-size: 16px;
     line-height: 1.88;
+    margin-bottom: 0;
 }
